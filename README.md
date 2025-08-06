@@ -1,4 +1,4 @@
-#Marketing Campaign Analysis – Facebook vs. AdWords (A/B Testing)
+Marketing Campaign Analysis – Facebook vs. AdWords (A/B Testing)
 Business Problem
 As a marketing agency, our goal is to maximize ROI for our clients. We ran two advertising campaigns — one on Facebook and another on Google AdWords — and needed to evaluate:
 Which platform performs better in terms of clicks, conversions, and cost-effectiveness?
@@ -35,7 +35,7 @@ Target Variables: CTR, ROI, conversions
 Data Source: Internal ad tracking data from the client
 --
 
-##Project Workflow
+## Project Workflow
 1. Data Cleaning
 Converted spend and conversion columns to numeric
 Handled missing/null values
